@@ -19,5 +19,8 @@
     "url": "https://github.com/guilhermedcl/caching-proxy/issues"
   },
   "homepage": "https://github.com/guilhermedcl/caching-proxy#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.0"
+  }
 }
